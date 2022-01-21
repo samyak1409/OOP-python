@@ -6,6 +6,6 @@ All the code:
 - is following [PEP 8](https://www.python.org/dev/peps/pep-0008/) ✅
 - has proper concept illustrations and comments 🙌
 
-so that a walk through of the code will help in learning/revising the concepts of Object Oriented Programming.
+so that a walk through of the code will help in learning/revising the concepts of Object-Oriented Programming.
 
 Thank You!
